@@ -2,3 +2,4 @@ scrapegraphai
 google-generativeai
 pandas
 streamlit
+langchain
