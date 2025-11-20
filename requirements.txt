@@ -1,0 +1,5 @@
+scrapegraphai
+google-generativeai
+pandas
+streamlit
+nomic-embed-text
