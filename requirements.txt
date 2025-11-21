@@ -3,3 +3,5 @@ google-generativeai
 pandas
 streamlit
 langchain
+langchain-community
+nest_asyncio
